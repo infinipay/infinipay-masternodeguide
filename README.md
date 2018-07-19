@@ -127,7 +127,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 ## Section D: Preparing the Local wallet
 
 ***Step 1***
-* Download and install the Node-X wallet [here]https://github.com/infinipay/infinipay/releases)
+* Download and install the Infinipay wallet [here]https://github.com/infinipay/infinipay/releases)
 ***
 
 ***Step 2***
